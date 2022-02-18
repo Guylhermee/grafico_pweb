@@ -1,1 +1,1 @@
-# Utilizando alguma biblioteca JavaScript para a geração de gráficos (ex.: Char.js ou Google Charts), implemente, em PHP, um sistema/método que forneça dados para exibir um gráfico de colunas na biblioteca escolhida. Envie sua implementação para um repositório e preencha o link aqui.
+### Utilizando alguma biblioteca JavaScript para a geração de gráficos (ex.: Char.js ou Google Charts), implemente, em PHP, um sistema/método que forneça dados para exibir um gráfico de colunas na biblioteca escolhida. Envie sua implementação para um repositório e preencha o link aqui.
